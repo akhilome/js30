@@ -4,7 +4,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 
 ## Checklist
 
-- [x]  Day 1 - [Javascript Drum](01) 
+- [x]  Day 1 - [Javascript Drum](https://akhilome.github.io/js30/01) 
 - [ ]  Day 2 - CSS + JS Clock 
 - [ ]  Day 3 - Playing With CSS Variables and JS 
 - [ ]  Day 4 - Array Cardio Day 1 
