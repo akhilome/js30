@@ -5,7 +5,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 ## Checklist
 
 - [x]  Day 1 - [Javascript Drum](https://akhilome.github.io/js30/01) 
-- [ ]  Day 2 - CSS + JS Clock 
+- [x]  Day 2 - [CSS + JS Clock](https://akhilome.github.io/js30/02) 
 - [ ]  Day 3 - Playing With CSS Variables and JS 
 - [ ]  Day 4 - Array Cardio Day 1 
 - [ ]  Day 5 - Flex Panels Image Gallery 

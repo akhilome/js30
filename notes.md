@@ -9,3 +9,8 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `HTMLMediaElement.play()` method
 * `HTMLMediaElement.currentTime` property. In fact, the `HTMLMediaElement` DOM interface
 * `transitionend` DOM event
+
+## Day 2
+
+* CSS `transform-origin` property
+* DOM `setInterval()` method
