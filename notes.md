@@ -14,3 +14,12 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 
 * CSS `transform-origin` property
 * DOM `setInterval()` method
+
+## Day 3
+
+* CSS variables can be updated with javascript
+* HTML `<input type="range">`
+* CSS variables
+* `.dataset` javascript property from set `data-*` in HTML
+* DOM `document.documentElement`
+* CSS `CSSStyleDeclaration.setProperty`
