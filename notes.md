@@ -23,3 +23,8 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `.dataset` javascript property from set `data-*` in HTML
 * DOM `document.documentElement`
 * CSS `CSSStyleDeclaration.setProperty`
+
+## Day 4
+
+* `console.table` over `console.log` for Arrays and Objects
+* Using `Array.prototype.reduce` to count instances of values (from an array) in an object
