@@ -28,3 +28,9 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 
 * `console.table` over `console.log` for Arrays and Objects
 * Using `Array.prototype.reduce` to count instances of values (from an array) in an object
+
+## Day 5
+
+* Flexbox (take the flexbox.io tutorial)
+* CSS `transform` property is awesome
+* DOM `element.classList.toggle()`
