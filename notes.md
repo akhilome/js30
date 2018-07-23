@@ -41,3 +41,11 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * Regex
 * DOM `keyup` event
 * DOM `change` event
+
+## Day 7
+
+* `Array.prototype.some()`
+* `Array.prototype.every()`
+* `Array.prototype.find()`
+* `Array.prototype.findIndex()`
+* `Array.prototype.splice()`
