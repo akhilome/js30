@@ -9,7 +9,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 3 - [Playing With CSS Variables and JS](https://akhilome.github.io/js30/03) 
 - [x]  Day 4 - [Array Cardio Day 1](https://akhilome.github.io/js30/04) 
 - [x]  Day 5 - [Flex Panels Image Gallery](https://akhilome.github.io/js30/05) 
-- [ ]  Day 6 - AJAX Type Ahead 
+- [x]  Day 6 - [AJAX Type Ahead](https://akhilome.github.io/js30/06) 
 - [ ]  Day 7 - Array Cardio 2 
 - [ ]  Day 8 - Fun With HTML5 Canvas 
 - [ ]  Day 9 - 14 Must-Know Dev Tools Tricks 

@@ -34,3 +34,10 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * Flexbox (take the flexbox.io tutorial)
 * CSS `transform` property is awesome
 * DOM `element.classList.toggle()`
+
+## Day 6
+
+* `fetch()` API
+* Regex
+* DOM `keyup` event
+* DOM `change` event
