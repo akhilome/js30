@@ -11,7 +11,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 5 - [Flex Panels Image Gallery](https://akhilome.github.io/js30/05) 
 - [x]  Day 6 - [AJAX Type Ahead](https://akhilome.github.io/js30/06) 
 - [x]  Day 7 - [Array Cardio 2](https://akhilome.github.io/js30/07) 
-- [ ]  Day 8 - Fun With HTML5 Canvas 
+- [x]  Day 8 - [Fun With HTML5 Canvas](https://akhilome.github.io/js30/08) 
 - [ ]  Day 9 - 14 Must-Know Dev Tools Tricks 
 - [ ]  Day 10 - Hold Shift to Check Multiple Checkboxes 
 - [ ]  Day 11 - Custom HTML5 Video Player 

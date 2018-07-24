@@ -49,3 +49,14 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `Array.prototype.find()`
 * `Array.prototype.findIndex()`
 * `Array.prototype.splice()`
+
+## Day 8
+
+* HTML Canvas -- the entire thing is foreign
+* DOM Canvas API
+* `mousemove` event
+* `mousedown` event
+* `mouseup` event
+* `mouseout` event
+* HSL (mothereffinghsl)
+* flag in javascript
