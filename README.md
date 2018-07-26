@@ -13,7 +13,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 7 - [Array Cardio 2](https://akhilome.github.io/js30/07) 
 - [x]  Day 8 - [Fun With HTML5 Canvas](https://akhilome.github.io/js30/08) 
 - [x]  Day 9 - [14 Must-Know Dev Tools Tricks](https://akhilome.github.io/js30/09) 
-- [ ]  Day 10 - Hold Shift to Check Multiple Checkboxes 
+- [x]  Day 10 - [Hold Shift to Check Multiple Checkboxes](https://akhilome.github.io/js30/10) 
 - [ ]  Day 11 - Custom HTML5 Video Player 
 - [ ]  Day 12 - Key Sequence detection (KONAMI Code) 
 - [ ]  Day 13 - Slide in on Scroll 

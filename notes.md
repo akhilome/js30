@@ -77,3 +77,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `console.count()`
 * `console.time()` ... `console.timeEnd()`
 * `console.table()`
+
+## Day 10
+
+* DOM `KeyboardEvent.key` property
