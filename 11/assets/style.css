@@ -86,6 +86,14 @@ body {
   flex:1;
 }
 
+.fullscreen {
+  background: none;
+  border: none;
+  color: white;
+  flex: .1;
+  cursor: pointer;
+}
+
 .progress {
   flex:10;
   position: relative;
