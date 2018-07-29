@@ -81,3 +81,8 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 ## Day 10
 
 * DOM `KeyboardEvent.key` property
+
+## Day 11
+
+* HTML5 Video -- brush up on this.
+* DOM `timeupdate` event
