@@ -14,7 +14,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 8 - [Fun With HTML5 Canvas](https://akhilome.github.io/js30/08) 
 - [x]  Day 9 - [14 Must-Know Dev Tools Tricks](https://akhilome.github.io/js30/09) 
 - [x]  Day 10 - [Hold Shift to Check Multiple Checkboxes](https://akhilome.github.io/js30/10) 
-- [ ]  Day 11 - Custom HTML5 Video Player 
+- [x]  Day 11 - [Custom HTML5 Video Player](https://akhilome.github.io/js30/11) 
 - [ ]  Day 12 - Key Sequence detection (KONAMI Code) 
 - [ ]  Day 13 - Slide in on Scroll 
 - [ ]  Day 14 - Object and Arrays - Reference vs Copy 
