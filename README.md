@@ -15,7 +15,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 9 - [14 Must-Know Dev Tools Tricks](https://akhilome.github.io/js30/09) 
 - [x]  Day 10 - [Hold Shift to Check Multiple Checkboxes](https://akhilome.github.io/js30/10) 
 - [x]  Day 11 - [Custom HTML5 Video Player](https://akhilome.github.io/js30/11) 
-- [ ]  Day 12 - Key Sequence detection (KONAMI Code) 
+- [x]  Day 12 - [Key Sequence detection (KONAMI Code)](https://akhilome.github.io/js30/12) 
 - [ ]  Day 13 - Slide in on Scroll 
 - [ ]  Day 14 - Object and Arrays - Reference vs Copy 
 - [ ]  Day 15 - Localstorage and Event Delegation 

@@ -85,4 +85,8 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 ## Day 11
 
 * HTML5 Video -- brush up on this.
-* DOM `timeupdate` event
+* DOM `timeupdate` event 
+
+## Day 12 
+
+* Using negative values in the `Array.splice()` prototype.
