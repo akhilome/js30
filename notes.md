@@ -90,3 +90,11 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 ## Day 12 
 
 * Using negative values in the `Array.splice()` prototype.
+
+## Day 13
+
+* 'debounce' function calls for performance improvement. (There's also 'throttle', too).
+* The `window` DOM object
+* `HTMLElement.offsetTop` property
+* `window.scroll*`
+* `window.innerHeight`
