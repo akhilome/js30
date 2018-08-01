@@ -16,8 +16,8 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 10 - [Hold Shift to Check Multiple Checkboxes](https://akhilome.github.io/js30/10) 
 - [x]  Day 11 - [Custom HTML5 Video Player](https://akhilome.github.io/js30/11) 
 - [x]  Day 12 - [Key Sequence detection (KONAMI Code)](https://akhilome.github.io/js30/12) 
-- [ ]  Day 13 - [Slide in on Scroll](https://akhilome.github.io/js30/13) 
-- [ ]  Day 14 - Object and Arrays - Reference vs Copy 
+- [x]  Day 13 - [Slide in on Scroll](https://akhilome.github.io/js30/13) 
+- [x]  Day 14 - [Object and Arrays - Reference vs Copy](https://akhilome.github.io/js30/14) 
 - [ ]  Day 15 - Localstorage and Event Delegation 
 - [ ]  Day 16 - CSS Text Shadow Mouse Move Effect 
 - [ ]  Day 17 - Sorting Band Names Without Articles 

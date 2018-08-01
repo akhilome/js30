@@ -98,3 +98,19 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `HTMLElement.offsetTop` property
 * `window.scroll*`
 * `window.innerHeight`
+
+## Day 14 
+
+* For making a copy of arrays, not referencing, use any of:
+  * `Array.from()`
+  * `Array.slice()`
+  * `[...array]` - spread.
+  * `Array.concat()`
+
+* For making a copy (shallow copy) of object, not referencing, use any of:
+  * `Object.assign()`
+  * `{...object}` - object spread (introduced ES2018)
+
+* For making deep copy:
+  * lodash's `_cloneDeep()`
+  * "Poor man's deep clone" - JSON.parse(JSON.stringify(obj))
