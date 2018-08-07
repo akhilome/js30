@@ -18,7 +18,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 12 - [Key Sequence detection (KONAMI Code)](https://akhilome.github.io/js30/12) 
 - [x]  Day 13 - [Slide in on Scroll](https://akhilome.github.io/js30/13) 
 - [x]  Day 14 - [Object and Arrays - Reference vs Copy](https://akhilome.github.io/js30/14) 
-- [ ]  Day 15 - Localstorage and Event Delegation 
+- [x]  Day 15 - [Localstorage and Event Delegation](https://akhilome.github.io/js30/15) 
 - [ ]  Day 16 - CSS Text Shadow Mouse Move Effect 
 - [ ]  Day 17 - Sorting Band Names Without Articles 
 - [ ]  Day 18 - Tally String Times With Reduce 
