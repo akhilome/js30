@@ -114,3 +114,16 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * For making deep copy:
   * lodash's `_cloneDeep()`
   * "Poor man's deep clone" - JSON.parse(JSON.stringify(obj))
+
+## Day 15
+
+* `localStorage`
+  * `localStorage.setItem()`
+  * `localStorage.getItem()`
+
+* `JSON.stringify()`
+* `JSON.parse()`
+* `HTMLFormElement.reset()`
+* Event delegation -- Very responsible parents with very negligent children. :)
+* DOM's `Element.matches()` method
+* DOM's `Event.preventDefault()` method
