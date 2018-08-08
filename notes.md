@@ -61,7 +61,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * HSL (mothereffinghsl)
 * flag in javascript
 
-# Day 9
+## Day 9
 
 * Add a breakpoint on attribute modification in dev tools to see which javascript functions are modifying an element
 * `%s` ==> for string interpolation
