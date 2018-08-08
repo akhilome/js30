@@ -127,3 +127,12 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * Event delegation -- Very responsible parents with very negligent children. :)
 * DOM's `Element.matches()` method
 * DOM's `Event.preventDefault()` method
+
+## Day 16
+
+* Object destructuring
+* Quick tip:
+  * `this` => the element that you listened on.
+  * `event.target` => the element that the event got triggered on.
+* DOM's `MouseEvent.offsetX`
+* DOM's `MouseEvent.offsetY`
