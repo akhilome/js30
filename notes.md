@@ -136,3 +136,8 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
   * `event.target` => the element that the event got triggered on.
 * DOM's `MouseEvent.offsetX`
 * DOM's `MouseEvent.offsetY`
+
+## Day 17
+
+* `Array.sort`
+* Regex, fucking learn Regex, Kay!

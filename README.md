@@ -20,7 +20,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 14 - [Object and Arrays - Reference vs Copy](https://akhilome.github.io/js30/14) 
 - [x]  Day 15 - [Localstorage and Event Delegation](https://akhilome.github.io/js30/15) 
 - [x]  Day 16 - [CSS Text Shadow Mouse Move Effect](https://akhilome.github.io/js30/16)  
-- [ ]  Day 17 - Sorting Band Names Without Articles 
+- [x]  Day 17 - [Sorting Band Names Without Articles](https://akhilome.github.io/js30/17) 
 - [ ]  Day 18 - Tally String Times With Reduce 
 - [ ]  Day 19 - Unreal Webcam Fun 
 - [ ]  Day 20 - Native Speech Recognition 
