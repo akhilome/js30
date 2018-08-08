@@ -75,3 +75,18 @@ h2 {
   outline:0;
   border:1px solid rgba(0,0,0,0.1);
 }
+
+.controls {
+  display: flex;
+  padding: 10px 0;
+}
+
+.controls button {
+  background: #333;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  flex: 1;
+  margin: 0 3px;
+  padding: 8px 4px;
+}
