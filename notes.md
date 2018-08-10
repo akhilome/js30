@@ -141,3 +141,11 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 
 * `Array.sort`
 * Regex, fucking learn Regex, Kay!
+
+## Day 18
+
+* `Array.map()` can be chained multiple times together. I.e. 
+
+```js
+array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
+```
