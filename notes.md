@@ -160,3 +160,11 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `Node.insertBefore()` method
 * DOM's `Node.firstChild` property
 * `canplay` event
+
+## Day 20
+
+* HTML's `contenteditable` attribute
+* DOM's Web Speech API
+* DOM's `SpeechRecognition` interface
+* Web Speech API's `result` event 
+* Web Speech API's `end` event
