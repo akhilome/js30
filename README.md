@@ -22,7 +22,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 16 - [CSS Text Shadow Mouse Move Effect](https://akhilome.github.io/js30/16)  
 - [x]  Day 17 - [Sorting Band Names Without Articles](https://akhilome.github.io/js30/17) 
 - [x]  Day 18 - [Tally String Times With Reduce](https://akhilome.github.io/js30/18) 
-- [ ]  Day 19 - Unreal Webcam Fun 
+- [x]  Day 19 - [Unreal Webcam Fun](https://akhilome.github.io/js30/19) 
 - [ ]  Day 20 - Native Speech Recognition 
 - [ ]  Day 21 - Geolocation-based Speedometer and Compass 
 - [ ]  Day 22 - Follow-along Links 
