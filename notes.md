@@ -149,3 +149,14 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 ```js
 array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 ```
+
+## Day 19 
+
+* Browsersync
+* DOM's `Navigator` interface
+* DOM's `MediaDevices` interface
+* DOM's `URL` interface
+* DOM's `createObjectURL()` method
+* DOM's `Node.insertBefore()` method
+* DOM's `Node.firstChild` property
+* `canplay` event
