@@ -24,7 +24,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 18 - [Tally String Times With Reduce](https://akhilome.github.io/js30/18) 
 - [x]  Day 19 - [Unreal Webcam Fun](https://akhilome.github.io/js30/19) 
 - [x]  Day 20 - [Native Speech Recognition](https://akhilome.github.io/js30/20)  
-- [ ]  Day 21 - Geolocation-based Speedometer and Compass 
+- [x]  Day 21 - [Geolocation-based Speedometer and Compass](https://akhilome.github.io/js30/21) 
 - [ ]  Day 22 - Follow-along Links 
 - [ ]  Day 23 - Speech Synthesis 
 - [ ]  Day 24 - Sticky Nav 

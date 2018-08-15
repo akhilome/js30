@@ -168,3 +168,8 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `SpeechRecognition` interface
 * Web Speech API's `result` event 
 * Web Speech API's `end` event
+
+## Day 21
+
+* DOM's Geolocation API
+* DOM's `Geolocation.watchPosition()` method
