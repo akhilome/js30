@@ -173,3 +173,9 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 
 * DOM's Geolocation API
 * DOM's `Geolocation.watchPosition()` method
+
+## Day 22
+
+* DOM's `ParentNode.append()` method
+* DOM's `Element.getBoundingClientRect()` method
+* `Window.scrollX`, `Window.scrollY` properties

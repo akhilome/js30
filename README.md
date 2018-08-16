@@ -25,7 +25,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 19 - [Unreal Webcam Fun](https://akhilome.github.io/js30/19) 
 - [x]  Day 20 - [Native Speech Recognition](https://akhilome.github.io/js30/20)  
 - [x]  Day 21 - [Geolocation-based Speedometer and Compass](https://akhilome.github.io/js30/21) 
-- [ ]  Day 22 - Follow-along Links 
+- [x]  Day 22 - [Follow-along Links](https://akhilome.github.io/js30/22) 
 - [ ]  Day 23 - Speech Synthesis 
 - [ ]  Day 24 - Sticky Nav 
 - [ ]  Day 25 - Event Capture, Propagation, Bubbling and Once
