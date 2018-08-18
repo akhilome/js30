@@ -186,3 +186,10 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `SpeechSynthesis` interface
 * DOM's `SpeechSynthesisVoice` interface
 * DOM's Web Speech API's `voiceschanged` event
+
+## Day 24
+
+* `HTMLElement.offsetHeight` property
+* DOM's `scroll` event
+* CSS transition can occur on `max-width` but not `width`
+* Tip: Target a parent element and manipulate its children's styles based on the parent.
