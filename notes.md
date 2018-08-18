@@ -179,3 +179,10 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `ParentNode.append()` method
 * DOM's `Element.getBoundingClientRect()` method
 * `Window.scrollX`, `Window.scrollY` properties
+
+## Day 23 
+
+* DOM's `SpeechSynthesisUterance` interface
+* DOM's `SpeechSynthesis` interface
+* DOM's `SpeechSynthesisVoice` interface
+* DOM's Web Speech API's `voiceschanged` event

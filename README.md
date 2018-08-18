@@ -26,7 +26,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 20 - [Native Speech Recognition](https://akhilome.github.io/js30/20)  
 - [x]  Day 21 - [Geolocation-based Speedometer and Compass](https://akhilome.github.io/js30/21) 
 - [x]  Day 22 - [Follow-along Links](https://akhilome.github.io/js30/22) 
-- [ ]  Day 23 - Speech Synthesis 
+- [x]  Day 23 - [Speech Synthesis](https://akhilome.github.io/js30/23) 
 - [ ]  Day 24 - Sticky Nav 
 - [ ]  Day 25 - Event Capture, Propagation, Bubbling and Once
 - [ ]  Day 26 - Stripe Follow-along Dropdown 
