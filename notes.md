@@ -193,3 +193,20 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `scroll` event
 * CSS transition can occur on `max-width` but not `width`
 * Tip: Target a parent element and manipulate its children's styles based on the parent.
+
+## Day 25
+
+* Here's an idea of what happens when an event is fired in the browser:
+  * the browser captures the event from the top of the "Tree" down to the element where the event was triggered on, then
+  * the action attached to the fired event is triggered on every element from the element it was triggered on, to the top of the "Tree".
+* Simply put, when an event is fired, two things happen => Event Capture, and Event Bubbling.
+* The DOM's `Event.stopPropagation()` method can be used to stop further propagation of the action attached to the event in either the capture, or the bubbling phase.
+* When listening for events on elements using the `Element.addEventListener()` method, options can be passed in to control event capturing and even something known as "Event Once" as thus:
+
+```js
+element.addEventListener('event', functionToRun, {
+  capture: true,
+  once: true
+});
+```
+* Passing in `once` removes the event listener from the element in the `Element.removeEventListener()` fashion immediately the event is triggered once.

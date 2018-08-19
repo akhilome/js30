@@ -28,7 +28,7 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 22 - [Follow-along Links](https://akhilome.github.io/js30/22) 
 - [x]  Day 23 - [Speech Synthesis](https://akhilome.github.io/js30/23) 
 - [x]  Day 24 - [Sticky Nav](https://akhilome.github.io/js30/24) 
-- [ ]  Day 25 - Event Capture, Propagation, Bubbling and Once
+- [x]  Day 25 - [Event Capture, Propagation, Bubbling and Once](https://akhilome.github.io/js30/25)
 - [ ]  Day 26 - Stripe Follow-along Dropdown 
 - [ ]  Day 27 - Click and Drag to Scroll 
 - [ ]  Day 28 - Video Speed Controller UI 
