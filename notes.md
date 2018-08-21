@@ -210,3 +210,8 @@ element.addEventListener('event', functionToRun, {
 });
 ```
 * Passing in `once` removes the event listener from the element in the `Element.removeEventListener()` fashion immediately the event is triggered once.
+
+## Day 26
+
+* DOM's `element.classList` methods (`add`, `remove`, `toggle`, etc) 
+* Shortcircuiting with `&&` and `||` 
