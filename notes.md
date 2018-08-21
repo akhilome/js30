@@ -215,3 +215,9 @@ element.addEventListener('event', functionToRun, {
 
 * DOM's `element.classList` methods (`add`, `remove`, `toggle`, etc) 
 * Shortcircuiting with `&&` and `||` 
+
+## Day 27
+
+* `MouseEvent.pageX`
+* `HTMLElement.offsetLeft`
+* `element.scrollLeft`
