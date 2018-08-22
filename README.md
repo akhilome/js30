@@ -31,6 +31,6 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 25 - [Event Capture, Propagation, Bubbling and Once](https://akhilome.github.io/js30/25)
 - [x]  Day 26 - [Stripe Follow-along Dropdown](https://akhilome.github.io/js30/26) 
 - [x]  Day 27 - [Click and Drag to Scroll](https://akhilome.github.io/js30/27) 
-- [ ]  Day 28 - Video Speed Controller UI 
+- [x]  Day 28 - [Video Speed Controller UI](https://akhilome.github.io/js30/28) 
 - [ ]  Day 29 - Countdown Clock 
 - [ ]  Day 30 - Whack a Mole Game 

@@ -221,3 +221,7 @@ element.addEventListener('event', functionToRun, {
 * `MouseEvent.pageX`
 * `HTMLElement.offsetLeft`
 * `element.scrollLeft`
+
+## Day 28
+
+* DOM's `HTMLMediaElement.playbackRate` property
