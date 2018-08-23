@@ -225,3 +225,22 @@ element.addEventListener('event', functionToRun, {
 ## Day 28
 
 * DOM's `HTMLMediaElement.playbackRate` property
+
+## Day 29
+
+* Date.now() => Current timestamp in milliseconds
+* Pop variables into object when console.loging like so:
+
+  ```js
+  const firstName = 'Kizito';
+  const lastName = 'Akhilome';
+
+  console.log({firstName, lastName});
+  ```
+
+* Select form elements by selecting their name attributes
+
+* DOM's `clearInterval()` method
+* The page's title tag can be updated like so => `document.title = 'new value';`
+* `new Date(timestamp)`
+* `Date.prototype`
