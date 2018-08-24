@@ -244,3 +244,9 @@ element.addEventListener('event', functionToRun, {
 * The page's title tag can be updated like so => `document.title = 'new value';`
 * `new Date(timestamp)`
 * `Date.prototype`
+
+
+## Day 30
+
+* DOM's `Event.isTrusted` property
+* DOM's `Node.parentElement` property

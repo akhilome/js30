@@ -33,4 +33,4 @@ This is a follow-along repo which would contain my solutions to each day of the 
 - [x]  Day 27 - [Click and Drag to Scroll](https://akhilome.github.io/js30/27) 
 - [x]  Day 28 - [Video Speed Controller UI](https://akhilome.github.io/js30/28) 
 - [x]  Day 29 - [Countdown Clock](https://akhilome.github.io/js30/29) 
-- [ ]  Day 30 - Whack a Mole Game 
+- [x]  Day 30 - [Whack a Mole Game](https://akhilome.github.io/js30/30) 
