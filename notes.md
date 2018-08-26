@@ -2,7 +2,7 @@
 
 Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the course.
 
-## Day 1
+## Day 1 : Javascript Drum
 
 * `keydown` event
 * HTML `data-*` Global Attribute
@@ -10,12 +10,12 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `HTMLMediaElement.currentTime` property. In fact, the `HTMLMediaElement` DOM interface
 * `transitionend` DOM event
 
-## Day 2
+## Day 2 : CSS + JS Clock
 
 * CSS `transform-origin` property
 * DOM `setInterval()` method
 
-## Day 3
+## Day 3 : Playing With CSS Variables and JS
 
 * CSS variables can be updated with javascript
 * HTML `<input type="range">`
@@ -24,25 +24,25 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * DOM `document.documentElement`
 * CSS `CSSStyleDeclaration.setProperty`
 
-## Day 4
+## Day 4 : Array Cardio Day 1
 
 * `console.table` over `console.log` for Arrays and Objects
 * Using `Array.prototype.reduce` to count instances of values (from an array) in an object
 
-## Day 5
+## Day 5 : Flex Panels Image Gallery
 
 * Flexbox (take the flexbox.io tutorial)
 * CSS `transform` property is awesome
 * DOM `element.classList.toggle()`
 
-## Day 6
+## Day 6 : AJAX Type Ahead
 
 * `fetch()` API
 * Regex
 * DOM `keyup` event
 * DOM `change` event
 
-## Day 7
+## Day 7 : Array Cardio 2
 
 * `Array.prototype.some()`
 * `Array.prototype.every()`
@@ -50,7 +50,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `Array.prototype.findIndex()`
 * `Array.prototype.splice()`
 
-## Day 8
+## Day 8 : Fun With HTML5 Canvas
 
 * HTML Canvas -- the entire thing is foreign
 * DOM Canvas API
@@ -61,7 +61,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * HSL (mothereffinghsl)
 * flag in javascript
 
-## Day 9
+## Day 9 : 14 Must-Know Dev Tools Tricks
 
 * Add a breakpoint on attribute modification in dev tools to see which javascript functions are modifying an element
 * `%s` ==> for string interpolation
@@ -78,20 +78,20 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `console.time()` ... `console.timeEnd()`
 * `console.table()`
 
-## Day 10
+## Day 10 : Hold Shift to Check Multiple Checkboxes
 
 * DOM `KeyboardEvent.key` property
 
-## Day 11
+## Day 11 : Custom HTML5 Video Player
 
 * HTML5 Video -- brush up on this.
 * DOM `timeupdate` event 
 
-## Day 12 
+## Day 12 : Key Sequence detection (KONAMI Code)
 
 * Using negative values in the `Array.splice()` prototype.
 
-## Day 13
+## Day 13 : Slide in on Scroll
 
 * 'debounce' function calls for performance improvement. (There's also 'throttle', too).
 * The `window` DOM object
@@ -99,7 +99,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * `window.scroll*`
 * `window.innerHeight`
 
-## Day 14 
+## Day 14 : Object and Arrays - Reference vs Copy
 
 * For making a copy of arrays, not referencing, use any of:
   * `Array.from()`
@@ -115,7 +115,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
   * lodash's `_cloneDeep()`
   * "Poor man's deep clone" - JSON.parse(JSON.stringify(obj))
 
-## Day 15
+## Day 15 : Localstorage and Event Delegation
 
 * `localStorage`
   * `localStorage.setItem()`
@@ -128,7 +128,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * DOM's `Element.matches()` method
 * DOM's `Event.preventDefault()` method
 
-## Day 16
+## Day 16 : CSS Text Shadow Mouse Move Effect
 
 * Object destructuring
 * Quick tip:
@@ -137,12 +137,12 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 * DOM's `MouseEvent.offsetX`
 * DOM's `MouseEvent.offsetY`
 
-## Day 17
+## Day 17 : Sorting Band Names Without Articles
 
 * `Array.sort`
 * Regex, fucking learn Regex, Kay!
 
-## Day 18
+## Day 18 : Tally String Times With Reduce
 
 * `Array.map()` can be chained multiple times together. I.e. 
 
@@ -150,7 +150,7 @@ Here, I'd be itemizing, in bullets, new concepts I come across as I traverse the
 array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 ```
 
-## Day 19 
+## Day 19 : Unreal Webcam Fun
 
 * Browsersync
 * DOM's `Navigator` interface
@@ -161,7 +161,7 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * DOM's `Node.firstChild` property
 * `canplay` event
 
-## Day 20
+## Day 20 : Native Speech Recognition
 
 * HTML's `contenteditable` attribute
 * DOM's Web Speech API
@@ -169,32 +169,32 @@ array.map(someAwesomeFunction).map(anotherAwesomeFunction).map(theAwesomest);
 * Web Speech API's `result` event 
 * Web Speech API's `end` event
 
-## Day 21
+## Day 21 : Geolocation-based Speedometer and Compass
 
 * DOM's Geolocation API
 * DOM's `Geolocation.watchPosition()` method
 
-## Day 22
+## Day 22 : Follow-along Links
 
 * DOM's `ParentNode.append()` method
 * DOM's `Element.getBoundingClientRect()` method
 * `Window.scrollX`, `Window.scrollY` properties
 
-## Day 23 
+## Day 23 : Speech Synthesis
 
 * DOM's `SpeechSynthesisUterance` interface
 * DOM's `SpeechSynthesis` interface
 * DOM's `SpeechSynthesisVoice` interface
 * DOM's Web Speech API's `voiceschanged` event
 
-## Day 24
+## Day 24 : Sticky Nav
 
 * `HTMLElement.offsetHeight` property
 * DOM's `scroll` event
 * CSS transition can occur on `max-width` but not `width`
 * Tip: Target a parent element and manipulate its children's styles based on the parent.
 
-## Day 25
+## Day 25 : Event Capture, Propagation, Bubbling and Once
 
 * Here's an idea of what happens when an event is fired in the browser:
   * the browser captures the event from the top of the "Tree" down to the element where the event was triggered on, then
@@ -211,22 +211,22 @@ element.addEventListener('event', functionToRun, {
 ```
 * Passing in `once` removes the event listener from the element in the `Element.removeEventListener()` fashion immediately the event is triggered once.
 
-## Day 26
+## Day 26 : Stripe Follow-along Dropdown
 
 * DOM's `element.classList` methods (`add`, `remove`, `toggle`, etc) 
 * Shortcircuiting with `&&` and `||` 
 
-## Day 27
+## Day 27 : Click and Drag to Scroll
 
 * `MouseEvent.pageX`
 * `HTMLElement.offsetLeft`
 * `element.scrollLeft`
 
-## Day 28
+## Day 28: Video Speed Controller UI
 
 * DOM's `HTMLMediaElement.playbackRate` property
 
-## Day 29
+## Day 29: Countdown Clock
 
 * Date.now() => Current timestamp in milliseconds
 * Pop variables into object when console.loging like so:
@@ -246,7 +246,7 @@ element.addEventListener('event', functionToRun, {
 * `Date.prototype`
 
 
-## Day 30
+## Day 30: Whack a Mole Game
 
 * DOM's `Event.isTrusted` property
 * DOM's `Node.parentElement` property
